@@ -3,7 +3,7 @@ const BLOG = {
   author: 'TayaW',
   email: 'web_zhen@163.com',
   link: 'https://sc.taya163.com',
-  newsletter: 'TayaW的周刊',
+  newsletter: '每周案例',
   description: '一个静悄悄的技术博客.',
   notes: 'TayaW的笔记',
   notesNav: {
