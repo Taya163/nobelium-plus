@@ -33,7 +33,7 @@ const BLOG = {
   socialLink: {
     twitter: 'https://twitter.com/TayaW37828491',
     github: 'https://github.com/Taya163',
-    telegram: 'https://t.me/xiyiblog'
+    telegram: 'https://t.me/zhenzhida'
   },
   seo: {
     keywords: ['TayaW', '博客', 'Blog'],
@@ -44,7 +44,7 @@ const BLOG = {
   notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
   telegramToken: process.env.TELEGRAM_TOKEN, // The token of your Telegram bot
   telegramChatId: '5470347768', // The chat id of your Telegram bot
-  telegramChannelUrl: 'https://channel.zuolan.me/', // The link of your Telegram channel
+  telegramChannelUrl: 'https://t.me/s/webfrontblog', // The link of your Telegram channel
   telegramChannelName: 'zuolan_channel', // The name of your Telegram channel
   craftConfigShareUrl: 'https://www.craft.do/s/tsw6gy0hNivQWa', // The link to share your craft config
   analytics: {
