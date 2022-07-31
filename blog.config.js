@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'TayaW | Blog',
+  title: 'TayaW\'s Blog',
   author: 'TayaW',
   email: 'web_zhen@163.com',
   link: 'https://sc.taya163.com',
@@ -32,7 +32,7 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-zl.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: {
     twitter: 'https://twitter.com/TayaW37828491',
-    github: 'https://github.com/Taya163',
+    github: 'https://github.com/Taya163/nobelium-plus',
     telegram: 'https://t.me/zhenzhida'
   },
   seo: {
