@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'TayaW',
+  title: 'TayaW | Blog',
   author: 'TayaW',
   email: 'web_zhen@163.com',
   link: 'https://sc.taya163.com',
