@@ -45,7 +45,7 @@ const BLOG = {
   telegramToken: process.env.TELEGRAM_TOKEN, // The token of your Telegram bot
   telegramChatId: '5470347768', // The chat id of your Telegram bot
   telegramChannelUrl: 'https://t.me/s/webfrontblog', // The link of your Telegram channel
-  telegramChannelName: 'zuolan_channel', // The name of your Telegram channel
+  telegramChannelName: '前端旅程', // The name of your Telegram channel
   craftConfigShareUrl: 'https://www.craft.do/s/tsw6gy0hNivQWa', // The link to share your craft config
   analytics: {
     provider: '', // Currently we support Google Analytics, Ackee and Umami, please fill with 'ga' or 'ackee' or 'umami', leave it empty to disable it.
