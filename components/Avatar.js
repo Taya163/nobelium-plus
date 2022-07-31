@@ -19,7 +19,7 @@ const Avatar = (props) => (
       width='100%'
       height='100%'
       clipPath='url(#shape)'
-      href='https://cdn.jsdelivr.net/gh/Taya163/MyCDN@1.0/project/mysc.taya163.com-blog/img/favicon-192x192.png'
+      href='https://cdn.jsdelivr.net/gh/Taya163/MyCDN@1.0/project/mysc.taya163.com-blog/img/main-top.png'
       preserveAspectRatio='none'
     ></image>
     <clipPath id='shape'>
