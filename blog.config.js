@@ -1,11 +1,11 @@
 const BLOG = {
-  title: '左蓝',
-  author: '左蓝',
-  email: 'i@zuolan.me',
-  link: 'https://zuolan.me',
-  newsletter: '左蓝的周刊',
-  description: '一个静悄悄的博客.',
-  notes: '左蓝的笔记',
+  title: 'TayaW',
+  author: 'TayaW',
+  email: 'web_zhen@163.com',
+  link: 'https://sc.taya163.com',
+  newsletter: 'TayaW的周刊',
+  description: '一个静悄悄的技术博客.',
+  notes: 'TayaW的笔记',
   notesNav: {
     index: '全部笔记',
     blog: '返回博客',
@@ -13,8 +13,8 @@ const BLOG = {
   },
   notesLink: {
     index: '/',
-    blog: 'https://zuolan.me',
-    contact: 'https://zuolan.me/contact'
+    blog: 'https://sc.taya163.com',
+    contact: 'https://sc.taya163.com/contact'
   },
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -22,7 +22,7 @@ const BLOG = {
   lightBackground: '#F6F8FA', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#212936', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2015, // If leave this empty, current year will be used.
+  since: 2022, // If leave this empty, current year will be used.
   postsPerPage: 10,
   sortByDate: true,
   showAbout: true,
@@ -31,22 +31,22 @@ const BLOG = {
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-zl.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: {
-    twitter: 'https://twitter.com/izuolan',
-    github: 'https://github.com/izuolan',
-    telegram: 'https://t.me/zuolan'
+    twitter: 'https://twitter.com/TayaW37828491',
+    github: 'https://github.com/Taya163',
+    telegram: 'https://t.me/xiyiblog'
   },
   seo: {
-    keywords: ['左蓝', 'Zuolan', 'Blog'],
+    keywords: ['TayaW', '博客', 'Blog'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS! Edit .env file!
   notionSpacesId: process.env.NOTION_SPACES_ID, // DO NOT CHANGE THIS! Edit .env file!
   notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
   telegramToken: process.env.TELEGRAM_TOKEN, // The token of your Telegram bot
-  telegramChatId: '263895784', // The chat id of your Telegram bot
+  telegramChatId: '5470347768', // The chat id of your Telegram bot
   telegramChannelUrl: 'https://channel.zuolan.me/', // The link of your Telegram channel
   telegramChannelName: 'zuolan_channel', // The name of your Telegram channel
-  craftConfigShareUrl: 'https://www.craft.do/s/8gQSdBtbuPjpp1', // The link to share your craft config
+  craftConfigShareUrl: 'https://www.craft.do/s/tsw6gy0hNivQWa', // The link to share your craft config
   analytics: {
     provider: '', // Currently we support Google Analytics, Ackee and Umami, please fill with 'ga' or 'ackee' or 'umami', leave it empty to disable it.
     umamiConfig: {
