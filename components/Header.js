@@ -173,7 +173,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
           <Link passHref href='/' scroll={false}>
             <a aria-label={BLOG.title}>
               <motion.div className='h-6 hover:text-blue-500 dark:hover:text-blue-500 fill-current'>
-                <Image
+                <img
                   src='/logo.png'
                   alt='Logo'
                   width={20}
